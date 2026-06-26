@@ -1,0 +1,56 @@
+[
+  {
+    "doc_id": "KLI-JOIA-420501",
+    "doc_type": "essay",
+    "cust_groups": [
+      "KA",
+      "CH"
+    ],
+    "section_id": "S0008",
+    "chunk_id": "S0008_chunk_1",
+    "fused_text": "[Container: Journal of International Arbitration | Document: State Immunity and the Recognition and Enforcement of ICSID Awards: Taking Stock | Section: S0008 - SECTION 9, NOT SECTION 2; SPECIFICITY IS PARAMOUNT]\n\nIf the first proposition advanced in Part 2 of this article is incorrect, and the registration of ICSID awards in the UK should not be ‘automatic’, then the alternative argument this article advances is that it is improper to rely solely on the language of Article 54 of the ICSID Convention for the purposes of establishing that a respondent state has waived its immunity from the jurisdiction of the courts before which recognition and enforcement are sought. Moreover, in ICSID recognition and enforcement proceedings, it should normally be section 9 of the SIA (the arbitration exception), not section 2 of the SIA (the ‘submission to jurisdiction’ provision), to which the courts should look to determine whether the state has waived its claim to state immunity.\n\nThe Court of Appeal in Infrastructure Services (EWCA) cited the HCA’s earlier decision in Infrastructure Services (HCA) at length in reaching the conclusion that Article 54 of the ICSID Convention constituted a waiver of adjudicative immunity, such that Spain and Zimbabwe were deemed to have submitted to the jurisdiction of the English courts for the purposes of section 2 of the SIA. Central to the Court of Appeal’s reasoning was the idea that the words of Article 54 constitute an express and sufficiently clear submission to the court’s jurisdiction. It is therefore helpful to first outline the HCA’s decision, given the significant role it played in the English Court of Appeal’s own reasoning.\n\nIn that case, the HCA had to decide – on materially the same facts as before the English Court of Appeal later – whether Spain’s being a party to the ICSID Convention meant that it had waived its immunity from the jurisdiction of the Australian courts on the basis that Article 54 of the ICSID Convention amounted to an ‘express’ agreement to submit to the jurisdiction within the meaning of section 10(2) of the Australian Foreign States Immunities Act (a provision analogous to section 2 of the SIA in the UK).\n\nOn the question of what it means for a waiver of immunity in an international agreement to be ‘express’, the HCA first considered a number of international law authorities, including a passage from the decision of the International Court of Justice in the Case Concerning Armed Activities on the Territory of the Congo stating that ‘waivers or renunciations of claims or rights must either be express or unequivocally implied from the conduct of the State alleged to have waived or renounced its right’.\n\nThe HCA then went on to state that ‘express meaning can include implications, which constitute the unexpressed content of a statement or term and which are identified by inference’. By contrast, there are ‘implied term[s], the meaning of which is derived primarily by inference from the conduct of the parties to the agreement and the circumstances in light of the express terms’. To adopt the language used by commentators like Miles, the HCA’s reasoning suggests a recognition of the idea that there are, on the one hand, ‘express terms’ and their corresponding ‘explicatures’ – meaning such information as is ‘directly implied’ by the express terms themselves – and on the other hand, ‘implied terms’ that find their existence where the explicatures end.\n\nIn light of that background, the HCA counselled against reading the ‘international authorities that insist upon express waiver of immunity in a treaty … as denying the ordinary and natural role of implications in elucidating the meaning of the express words of the treaty’. Since the implications are understood here as elucidating the meaning of the express words, it seems that the HCA had in mind implications in the form of explicatures as alluded to above. In other words, the HCA considered that an ‘express’ waiver could arise not only from the express words of the international agreement itself (i.e., the so-called text on the page), but also from the unexpressed meaning one infers from them.",
+    "inherited_topics": [
+      "Investment Arbitration"
+    ],
+    "inherited_keywords": [
+      "ICSID Convention",
+      "New York Convention",
+      "state immunity",
+      "Infrastructure Services Luxembourg"
+    ],
+    "L1_Domain": "International Arbitration",
+    "L2_Topic": "State Immunity and Enforcement",
+    "L2_Source": "generator",
+    "L2_Similarity": 0.7667,
+    "L2_Reasoning": "The text primarily analyzes the application and waiver of state immunity in the context of recognizing and enforcing international arbitration awards, particularly ICSID awards, against sovereign states.",
+    "L3_Sub_Topic": "ICSID Enforcement Immunity Waiver",
+    "L3_Source": "namer"
+  },
+  {
+    "doc_id": "KLI-JOIA-420501",
+    "doc_type": "essay",
+    "cust_groups": [
+      "KA",
+      "CH"
+    ],
+    "section_id": "S0013",
+    "chunk_id": "S0013_chunk_1",
+    "fused_text": "[Container: Journal of International Arbitration | Document: State Immunity and the Recognition and Enforcement of ICSID Awards: Taking Stock | Section: S0013 - CONCLUSION]\n\nIn concluding this article, it is difficult to improve on the remarks made by Fraser J in the English High Court decision in Infrastructure Services (EWHC): I have produced this judgment in order to explain the analysis that I consider both underpins the domestic enforcement regime for ICSID awards under the 1966 Act, and to address Spain’s carefully advanced and argued multiple grounds of opposition to the Order. This should not be taken as encouragement by any state in a similar position to Spain that there is a lengthy and costly legal argument, based on wide-ranging arguments under international law, to be had on all or any attempts to obtain recognition of an ICSID award by an investor under the 1966 Act. There is not. The entire purpose of the ICSID Convention and the 1966 Act would be undermined if lengthy and complex arguments of the type advanced by Spain in this case were routinely advanced. … In cases such as this one in the future, if the ICSID Committee have considered and dismissed objections under the Convention procedure and the award is a valid and authentic one, I wish to make it clear that there are no grounds for repetition or rehearing of those in the Commercial Court. Unless a case is truly exceptional, it is difficult to foresee how a hearing of the length required in this case, and a judgment of this length, would occur again. To do so would be contrary to the ICSID Convention and the 1966 Act, and is exactly what international arbitration is designed to avoid.\n\nThis author agrees. The primary argument made in this article, founded upon Dias J’s masterful analysis in Border Timbers, seeks to avoid the multifarious possible ways in which simple attempts at obtaining the registration of an ICSID award by an investor under the 1966 Act could be derailed. The registration of ICSID awards in the UK should be ‘automatic’, with no scope for states to raise objections on the basis of state immunity (for the simple reason that under section 1 of the SIA, state immunity does not arise).\n\nMeanwhile, the secondary argument advanced – that waivers of immunity should be found from state conduct and instruments specific to the arbitration in question and not from general framework Conventions, and that section 9 of the SIA should normally be the primary means of finding a waiver of jurisdictional immunity insofar as ICSID or New York Convention enforcement proceedings are concerned – seeks to bring more conceptual coherence to this area of law. Even though, in theory, deciding that the text of a framework Convention alone suffices to establish an exception to immunity via section 2 of the SIA would save considerable time and may help avoid protracted proceedings, it is important not to allow these supposed practical benefits to overshadow the conceptual incoherence that would result from doing so and the need for robust judicial reasoning.",
+    "inherited_topics": [
+      "Investment Arbitration"
+    ],
+    "inherited_keywords": [
+      "ICSID Convention",
+      "New York Convention",
+      "state immunity",
+      "Infrastructure Services Luxembourg"
+    ],
+    "L1_Domain": "International Arbitration",
+    "L2_Topic": "State Immunity and Enforcement",
+    "L2_Source": "generator",
+    "L2_Similarity": 0.7821,
+    "L2_Reasoning": "The text primarily discusses the legal principles and challenges concerning state immunity as it applies to the recognition and enforcement of international arbitration awards, particularly ICSID awards.",
+    "L3_Sub_Topic": "ICSID Enforcement Immunity Waiver",
+    "L3_Source": "namer"
+  }
+]

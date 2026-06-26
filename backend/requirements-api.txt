@@ -1,0 +1,10 @@
+# Insight Engine HTTP API (FastAPI) — install on top of requirements.txt
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9      # required for multipart file uploads
+pydantic>=2.6
+
+# Optional — PDF/DOC text preview at upload time. The API runs without these
+# (preview is simply omitted); install to enable the Confirm-screen preview.
+pypdf>=4.0
+python-docx>=1.1

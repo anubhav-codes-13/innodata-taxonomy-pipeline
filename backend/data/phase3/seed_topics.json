@@ -1,0 +1,37 @@
+{
+  "_comment": "Curated canonical L2 macro-topics used as anchor dictionary for the Phase 3.1 router. Merged into master_dictionary.json by tag_harvester.py when --seed-topics is passed. Seed IDs win on conflict with harvested IDs.",
+
+  "KA": {
+    "topics": {
+      "KA-SEED-001": "International Commercial Arbitration",
+      "KA-SEED-002": "Investment Arbitration",
+      "KA-SEED-003": "State Immunity",
+      "KA-SEED-004": "Award Enforcement",
+      "KA-SEED-005": "Award Annulment",
+      "KA-SEED-006": "Arbitrator Independence",
+      "KA-SEED-007": "Arbitration Agreement",
+      "KA-SEED-008": "Public Policy",
+      "KA-SEED-009": "Arbitration Procedure",
+      "KA-SEED-010": "AI in Arbitration",
+      "KA-SEED-011": "Costs and Fees",
+      "KA-SEED-012": "Jurisdiction and Competence"
+    }
+  },
+
+  "KCL": {
+    "topics": {
+      "KCL-SEED-001": "Merger Control",
+      "KCL-SEED-002": "Abuse of Dominance",
+      "KCL-SEED-003": "Anticompetitive Agreements",
+      "KCL-SEED-004": "Cartels",
+      "KCL-SEED-005": "State Aid",
+      "KCL-SEED-006": "Market Definition",
+      "KCL-SEED-007": "Digital Markets",
+      "KCL-SEED-008": "Vertical Restraints",
+      "KCL-SEED-009": "Intellectual Property and Competition",
+      "KCL-SEED-010": "Competition Enforcement",
+      "KCL-SEED-011": "Merger Notification",
+      "KCL-SEED-012": "Remedies and Sanctions"
+    }
+  }
+}

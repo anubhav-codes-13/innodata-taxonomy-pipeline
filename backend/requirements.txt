@@ -1,0 +1,22 @@
+# Kluwer Law XML → RAG pipeline.
+# Only top-level packages are pinned here; transitive deps (torch, tokenizers,
+# grpcio, protobuf, huggingface_hub, etc.) are resolved automatically by pip.
+
+# Core data handling — used across the EDA, chunker, and harvester
+numpy
+pandas
+
+# Phase 3 — Gemini + .env loading
+google-generativeai>=0.8.0
+python-dotenv>=1.0.0
+
+# Phase 3 — real embeddings for the L2 anchor path.
+# Optional: the router falls back to DummyEmbedder if this is not installed.
+sentence-transformers>=5.0.0
+
+# Phase 3.3 — L3 sub-topic clustering (AgglomerativeClustering, cosine metric)
+scikit-learn>=1.4.0
+
+# Phase 3 — Vertex AI alternative. Uncomment if you switch from the
+# google-generativeai SDK to Vertex (different auth, same Gemini models).
+# google-cloud-aiplatform>=1.60.0

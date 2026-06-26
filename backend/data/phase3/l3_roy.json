@@ -1,0 +1,45 @@
+[
+  {
+    "doc_id": "KLI-KCL-Roy-2024-Ch03",
+    "doc_type": "essay",
+    "cust_groups": [
+      "KCL"
+    ],
+    "section_id": "a0016",
+    "chunk_id": "a0016_chunk_8",
+    "fused_text": "[Container: Competition Law in India: A Practical Guide (Second Edition) | Document: Chapter 3: Abuse of Dominance and Competition Law | Section: a0016 - INDICES OF DOMINANCE: ‘ALL OR ANY FACTOR’]\n\nThe CCI on the basis of the investigation report of the DG noted that though Android OS theoretically is an open-source project, it was actually controlled by Google. It found that in order to have access to the proprietary apps of Google, including Play Store, Play Services, Google Search, etc., as well as the trademarks related to Android, OEMs have to sign multiple agreements with Google such as Mobile Application Distribution Agreement (MADA), Anti-fragmentation Agreement (AFA), Android Compatibility Commitment Agreement (ACC) and Revenue Sharing Agreement (RSA). The cumulative effect of these agreements has been described in the following flowchart:\n\nHence, due to the compatibility obligations of OEMs following these agreements, they were restrained from manufacturing and selling devices incorporating the forked version of Android OS. Therefore, any OEM who wants to offer these ‘must have’ services to its customers must sign and accept the restrictions laid down in MADA, AFA/ACC and, thereafter, RSAs to maximize the revenue. Hence, competing general search service providers were not in a position to nullify the competitive edge that Google secured for itself through pre-installation as well as premium placement under MADA. This meant that Google had manufactured unyielding consumer dependence in its favour. The anti-competitive effects of these agreements, as has been elaborated by the CCI, have been discussed under abuse.\n\nHerein, it is pointed out that in appeal, Google argued before NCLAT that all three agreements (MADA, AFA/ACC, RSA) should be separately looked into. However, the NCLAT rejected this on the premise that when all three agreements are signed by an OEM, its consequence has to be conjointly looked into. This implies that when the subject of all three agreements relate to Android open source and are interrelated, they have to be read conjointly to examine their cumulative effect to examine the dependence of consumers and the extent of network effects as a barrier to entry.\n\nThe CCI in its decisional practice of abuse of dominance, has always looked into entry barriers while determining whether an entity is dominant or not. It has been noted that low barriers to entry or expansion by actual or potential competitors can deter a company from raising prices if expansion or entry would be likely, timely and sufficient. Having said that, expansion or entry must be immediate and of sufficient scope and magnitude to constitute an efficient, competitive constraint on the enterprise concerned.\n\nBarriers to entry can include not only legal barriers but also advantages peculiar to the dominant company. They include all those behaviour patterns which a new entrant will have to follow in order to be sustainable in the market. Such patterns may be a result of the dominant incumbent. The CCI also considers the behaviour of the dominant undertaking, which may in turn become a market barrier for other enterprises in the market. For example, in the NSE case, NSE started providing transaction waivers only in the currency derivative market. In such a situation where the rules of the game are set by the dominant incumbent, a new player has no option but to match the behaviour of the dominant enterprise, in this case, which was providing transaction waivers to start with to enter the said market, leave alone being competitive.",
+    "inherited_topics": [
+      "Antitrust"
+    ],
+    "inherited_keywords": [],
+    "L1_Domain": "Competition Law",
+    "L2_Topic": "Digital Markets",
+    "L2_Source": "generator",
+    "L2_Similarity": 0.7564,
+    "L2_Reasoning": "The text primarily discusses anti-competitive practices, abuse of dominance, and barriers to entry within the context of a digital ecosystem, specifically Google's Android OS and related services.",
+    "L3_Sub_Topic": "Android Ecosystem Dominance",
+    "L3_Source": "namer"
+  },
+  {
+    "doc_id": "KLI-KCL-Roy-2024-Ch06",
+    "doc_type": "essay",
+    "cust_groups": [
+      "KCL"
+    ],
+    "section_id": "a0031",
+    "chunk_id": "a0031_chunk_4",
+    "fused_text": "[Container: Competition Law in India: A Practical Guide (Second Edition) | Document: Chapter 6: Digital Markets and Competition Law | Section: a0031 - TRENDS FROM DECISIONAL PRACTICE]\n\nIn appeal, the NCLAT overturned CCI’s direction on the ground that the APIs which provide essential services to the apps which are part of the Play Store, are privately developed, maintained and continually updated by Google and are provided by Google to app developers and OEMs. Consequently, unhindered access to such proprietary items of Google cannot be given to app developers, OEMs and Google’s existing and potential competitors. Further, such proprietary software which is ‘developed through scientific and technical innovation should fetch value to Google and, therefore, remain an incentive for a technological company/Google to further carry out such development and monetize it through its commercial use’. Thus, unhindered access to the same cannot be allowed without going through necessary technical and commercial engagement with Google. The matter is pending appeal before the Supreme Court.\n\nThis was also recognized by the CCI in the AIOVA v. Flipkart, wherein it observed that since the technology-driven and marketplace-based e-commerce model is still evolving and relatively nascent, regard must be had to the growth potential as well as the efficiencies and consumer benefits that such markets can provide. Hence, any intervention in such markets needs to be carefully crafted lest it stifles innovation.\n\nCCI has refrained from acting as a price regulator. In the Play Store case, CCI did not hold that the 15%-30% commission charged by Google through imposition of a mandatory GPBS on each transaction pertaining to a paid app/digital in-app purchase was excessive. Similarly, in the MMT-Go case, CCI did not give a finding on deep discounting by MMT-Go. Thus, it is clear that CCI has refrained itself from acting as a price regulator or regulating the commercial wisdom of enterprises. Rather, the CCI has focused on freeing the market at every level of the value chain by removing bottlenecks and promoting dynamic efficiency and innovation in the market (such as by issuing remedial directions). Therefore, the stand taken by the CCI is pro-competition without interfering with the business decisions of the platforms.",
+    "inherited_topics": [
+      "Antitrust",
+      "Mergers"
+    ],
+    "inherited_keywords": [],
+    "L1_Domain": "Competition Law",
+    "L2_Topic": "Digital Markets",
+    "L2_Source": "generator",
+    "L2_Similarity": 0.7594,
+    "L2_Reasoning": "The text focuses on competition law issues, regulatory interventions, and specific cases within the context of digital platforms, proprietary software, and e-commerce, which are distinct from general antitrust or merger control.",
+    "L3_Sub_Topic": "Android Ecosystem Dominance",
+    "L3_Source": "namer"
+  }
+]

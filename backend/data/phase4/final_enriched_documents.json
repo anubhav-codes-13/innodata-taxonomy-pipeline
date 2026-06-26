@@ -1,0 +1,1141 @@
+[
+  {
+    "doc_id": "KLI-JOIA-420501",
+    "doc_type": "essay",
+    "container_title": "Journal of International Arbitration",
+    "publ_year": 2025,
+    "cust_groups": [
+      "CH",
+      "KA"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "International Arbitration",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "State Immunity",
+          "chunk_count": 1,
+          "word_weight": 650
+        },
+        {
+          "l2_topic": "Investment Arbitration",
+          "chunk_count": 1,
+          "word_weight": 489
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "State Immunity",
+          "chunk_count": 1,
+          "word_weight": 650
+        },
+        {
+          "l2_topic": "Investment Arbitration",
+          "chunk_count": 1,
+          "word_weight": 489
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 2,
+        "expanded_count": 0,
+        "total": 2,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "ICSID Award Enforcement",
+        "ICSID Immunity Waiver"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Border Timbers",
+          "Case Concerning Armed Activities on the Territory of the Congo",
+          "Infrastructure Services (EWCA)",
+          "Infrastructure Services (EWHC)",
+          "Infrastructure Services (HCA)"
+        ],
+        "statutes_and_regulations": [
+          "1966 Act",
+          "Article 54 of the ICSID Convention",
+          "Australian Foreign States Immunities Act",
+          "ICSID Convention",
+          "New York Convention",
+          "section 1 of the SIA",
+          "section 10(2) of the Australian Foreign States Immunities Act",
+          "section 2 of the SIA",
+          "section 9 of the SIA",
+          "SIA",
+          "State Immunity Act"
+        ],
+        "organizations": [
+          "Commercial Court",
+          "Court of Appeal",
+          "English High Court",
+          "HCA",
+          "ICSID Committee",
+          "International Court of Justice"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "ICSID Convention",
+          "International Commercial Arbitration",
+          "New York Convention",
+          "Recognition and Enforcement of Awards",
+          "Recognition and Enforcement of ICSID Awards",
+          "Registration of ICSID awards",
+          "State Immunity",
+          "Submission to Jurisdiction",
+          "Waiver of Immunity",
+          "Waivers of immunity"
+        ],
+        "matched_from_dictionary": [
+          "International Commercial Arbitration",
+          "New York Convention",
+          "State Immunity"
+        ],
+        "newly_extracted": [
+          "ICSID Convention",
+          "Recognition and Enforcement of Awards",
+          "Recognition and Enforcement of ICSID Awards",
+          "Registration of ICSID awards",
+          "Submission to Jurisdiction",
+          "Waiver of Immunity",
+          "Waivers of immunity"
+        ]
+      }
+    },
+    "chunk_count": 2
+  },
+  {
+    "doc_id": "KLI-JOIA-420502",
+    "doc_type": "commentary",
+    "container_title": "Journal of International Arbitration",
+    "publ_year": 2025,
+    "cust_groups": [
+      "CH",
+      "KA"
+    ],
+    "case_metadata": {
+      "court": "Singapore Supreme Court of Singapore, Court of Appeal",
+      "case_number": "Court of Appeal / Civil Appeal No 6 of 2024",
+      "case_name": "DJP and others v. DJO [2024] SGHC(I) 24",
+      "decision_date": "20250408",
+      "parties": [
+        {
+          "role": "Appellant",
+          "name": "DJP"
+        },
+        {
+          "role": "Appellant",
+          "name": "DJO"
+        },
+        {
+          "role": "Appellant",
+          "name": "DJP"
+        },
+        {
+          "role": "Respondent",
+          "name": "DJO"
+        }
+      ]
+    },
+    "taxonomy": {
+      "L1_Domain": "International Arbitration",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Arbitrator Independence",
+          "chunk_count": 2,
+          "word_weight": 1131
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Arbitrator Independence",
+          "chunk_count": 2,
+          "word_weight": 1131
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 2,
+        "expanded_count": 0,
+        "total": 2,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Arbitrator Issue Conflict"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Blue Bank v. Venezuela",
+          "Caratube v. Kazakhstan",
+          "CC/Devas v. India",
+          "DJP v. DJO",
+          "Halliburton",
+          "Halliburton Company v. Chubb Bermuda Insurance Ltd",
+          "Suez v. Argentina",
+          "Tidewater v. Venezuela"
+        ],
+        "statutes_and_regulations": [],
+        "organizations": [
+          "Singapore Court of Appeal",
+          "UK Supreme Court"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Annulment",
+          "Arbitrator Bias",
+          "Arbitrator Conduct",
+          "Copying Of Arbitral Award",
+          "DJP V. DJO",
+          "International Commercial Arbitration",
+          "Issue Conflict",
+          "Prejudgment",
+          "Principle Of Information Equality",
+          "Repeat Appointments",
+          "Setting Aside Of Award"
+        ],
+        "matched_from_dictionary": [
+          "Annulment",
+          "Arbitrator Bias",
+          "Copying Of Arbitral Award",
+          "International Commercial Arbitration",
+          "Issue Conflict",
+          "Principle Of Information Equality",
+          "Repeat Appointments",
+          "Setting Aside Of Award"
+        ],
+        "newly_extracted": [
+          "Arbitrator Conduct",
+          "DJP V. DJO",
+          "Prejudgment"
+        ]
+      }
+    },
+    "chunk_count": 2
+  },
+  {
+    "doc_id": "KLI-JOIA-420504",
+    "doc_type": "essay",
+    "container_title": "Journal of International Arbitration",
+    "publ_year": 2025,
+    "cust_groups": [
+      "CH",
+      "KA"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "International Arbitration",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Award Annulment",
+          "chunk_count": 1,
+          "word_weight": 681
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Award Annulment",
+          "chunk_count": 1,
+          "word_weight": 681
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Annulment and Enforcement"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Dallah v. Pakistan",
+          "Malicorp Ltd v. Government of Arab Republic of Egypt",
+          "Nikolay Viktorovich Maximov v. Open Joint Stock Company Novolipetsky Metallurgichesky KomBinat"
+        ],
+        "statutes_and_regulations": [
+          "AA 1996",
+          "Article V(1)(e) of the New York Convention",
+          "New York Convention",
+          "section 103",
+          "section 67",
+          "section 68",
+          "section 69"
+        ],
+        "organizations": [
+          "English courts",
+          "supervisory Courts"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Annulment",
+          "Appeals In Arbitration",
+          "Arbitration",
+          "Arbitrator Bias",
+          "Breach Of Natural Justice",
+          "enforcement of arbitral awards",
+          "judicial review of arbitral awards",
+          "New York Convention",
+          "Public Policy",
+          "Section 67 Arbitration Act 1996 And Appeals",
+          "Section 69 Arbitration Act 1996 And Appeals",
+          "Set-Aside",
+          "Setting Aside",
+          "Setting Aside Of Award"
+        ],
+        "matched_from_dictionary": [
+          "Annulment",
+          "Appeals In Arbitration",
+          "Arbitration",
+          "Arbitrator Bias",
+          "Breach Of Natural Justice",
+          "New York Convention",
+          "Public Policy",
+          "Section 67 Arbitration Act 1996 And Appeals",
+          "Section 69 Arbitration Act 1996 And Appeals",
+          "Set-Aside",
+          "Setting Aside",
+          "Setting Aside Of Award"
+        ],
+        "newly_extracted": [
+          "enforcement of arbitral awards",
+          "judicial review of arbitral awards"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KA-AI-Arbitration-2026-Ch03",
+    "doc_type": "essay",
+    "container_title": "AI and Arbitration",
+    "publ_year": 2026,
+    "cust_groups": [
+      "KA"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "International Arbitration",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "AI in Arbitration",
+          "chunk_count": 1,
+          "word_weight": 608
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "AI in Arbitration",
+          "chunk_count": 1,
+          "word_weight": 608
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "AI and Arbitral Judgment"
+      ],
+      "L4_Entities": {
+        "case_names": [],
+        "statutes_and_regulations": [],
+        "organizations": []
+      },
+      "L4_Keywords": {
+        "all": [
+          "Access to justice",
+          "Algorithmic dispute resolution",
+          "Arbitration",
+          "Artificial Intelligence",
+          "Automated decision-making",
+          "Technology",
+          "Virtual tribunals"
+        ],
+        "matched_from_dictionary": [
+          "Arbitration",
+          "Artificial Intelligence",
+          "Technology"
+        ],
+        "newly_extracted": [
+          "Access to justice",
+          "Algorithmic dispute resolution",
+          "Automated decision-making",
+          "Virtual tribunals"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KA-AI-Arbitration-2026-Ch05",
+    "doc_type": "essay",
+    "container_title": "AI and Arbitration",
+    "publ_year": 2026,
+    "cust_groups": [
+      "KA"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "International Arbitration",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "AI in Arbitration",
+          "chunk_count": 1,
+          "word_weight": 636
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "AI in Arbitration",
+          "chunk_count": 1,
+          "word_weight": 636
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "AI and Arbitral Judgment"
+      ],
+      "L4_Entities": {
+        "case_names": [],
+        "statutes_and_regulations": [],
+        "organizations": []
+      },
+      "L4_Keywords": {
+        "all": [
+          "Arbitration",
+          "Artificial Intelligence",
+          "Epistemology of Correlation",
+          "Generative Ai",
+          "Justificatory Rationality",
+          "Legal Forecasting",
+          "Legal Singularity Hypothesis",
+          "Predictive Systems"
+        ],
+        "matched_from_dictionary": [
+          "Arbitration",
+          "Artificial Intelligence",
+          "Generative Ai"
+        ],
+        "newly_extracted": [
+          "Epistemology of Correlation",
+          "Justificatory Rationality",
+          "Legal Forecasting",
+          "Legal Singularity Hypothesis",
+          "Predictive Systems"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KA-ICCA-HB-126-002-n",
+    "doc_type": "essay",
+    "container_title": "ICCA International Handbook on Commercial Arbitration",
+    "publ_year": 2023,
+    "cust_groups": [
+      "IHB",
+      "KA"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "International Arbitration",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Arbitration Cost Framework",
+          "chunk_count": 1,
+          "word_weight": 521
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Arbitration Cost Framework",
+          "chunk_count": 1,
+          "word_weight": 521
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Expanded",
+        "anchored_count": 0,
+        "expanded_count": 1,
+        "total": 1,
+        "anchored_pct": 0.0,
+        "expanded_pct": 100.0
+      },
+      "L3_Sub_Topics": [
+        "Arbitrator Fees, Party Costs"
+      ],
+      "L4_Entities": {
+        "case_names": [],
+        "statutes_and_regulations": [
+          "CCCP",
+          "EAL"
+        ],
+        "organizations": [
+          "Centre"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Allocation of costs",
+          "Arbitrators' fees",
+          "Costs follow the event",
+          "Legal counsel fees",
+          "Loser pays rule"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "Allocation of costs",
+          "Arbitrators' fees",
+          "Costs follow the event",
+          "Legal counsel fees",
+          "Loser pays rule"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KCL-0949015",
+    "doc_type": "caselaw",
+    "container_title": "Selected Materials from the European Union",
+    "publ_year": null,
+    "cust_groups": [
+      "KCL"
+    ],
+    "case_metadata": {
+      "court": "European Union Court of Justice of the European Communities (ECJ)",
+      "case_number": "C-475/08",
+      "case_name": null,
+      "decision_date": "20091203",
+      "parties": [
+        {
+          "role": "Applicant",
+          "name": "Commission"
+        },
+        {
+          "role": "Defendant",
+          "name": "Belgium"
+        }
+      ]
+    },
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "EU Law Implementation",
+          "chunk_count": 1,
+          "word_weight": 637
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "EU Law Implementation",
+          "chunk_count": 1,
+          "word_weight": 637
+        },
+        {
+          "l2_topic": "Public Undertakings and Services",
+          "chunk_count": 2,
+          "word_weight": 8
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Expanded",
+        "anchored_count": 0,
+        "expanded_count": 3,
+        "total": 3,
+        "anchored_pct": 0.0,
+        "expanded_pct": 100.0
+      },
+      "L3_Sub_Topics": [
+        "EU Public Service Compliance",
+        "Infringement Proceedings"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Commission v. Belgium, Judgment of the Court of Justice of 3 December 2009, Case C-475/08"
+        ],
+        "statutes_and_regulations": [
+          "Article 11 of the Directive",
+          "Article 18 of the Directive",
+          "Article 22 of the Directive",
+          "Article 22(3)(d) and (e) and (4) of the Directive",
+          "Article 226 EC",
+          "Article 25(2) thereof",
+          "Article 33 of the Directive",
+          "Article 7 of Directive 2003/55/EC",
+          "Directive 2003/55/EC",
+          "Directive 98/30/EC"
+        ],
+        "organizations": [
+          "Court of Justice",
+          "European Commission",
+          "European Union",
+          "Kingdom of Belgium"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Decision Exempting Major New Gas Infrastructures From The Application Of Certain Provisions Of Directive 2003/55/Ec",
+          "Definitive Designation Of System Operators",
+          "Directive 2003/55/Ec",
+          "Failure Of A Member State To Fulfil Obligations",
+          "Publication Consultation And Notification Obligations"
+        ],
+        "matched_from_dictionary": [
+          "Decision Exempting Major New Gas Infrastructures From The Application Of Certain Provisions Of Directive 2003/55/Ec",
+          "Definitive Designation Of System Operators",
+          "Directive 2003/55/Ec",
+          "Failure Of A Member State To Fulfil Obligations",
+          "Publication Consultation And Notification Obligations"
+        ],
+        "newly_extracted": []
+      }
+    },
+    "chunk_count": 3
+  },
+  {
+    "doc_id": "KLI-KCL-CL-CompL200500292",
+    "doc_type": "caselaw",
+    "container_title": "Competition Law in Western Europe and the USA",
+    "publ_year": 1976,
+    "cust_groups": [
+      "KCL"
+    ],
+    "case_metadata": {
+      "court": "European Union Court of First Instance of the European Communities (CFI)",
+      "case_number": "T-125/97 and T-127/97",
+      "case_name": null,
+      "decision_date": "20000322",
+      "parties": [
+        {
+          "role": "Applicant",
+          "name": "Coca-Cola"
+        },
+        {
+          "role": "Defendant",
+          "name": "Commission"
+        }
+      ]
+    },
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 249
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 249
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Concentration Decision Annulment"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Case IV/M.794 Coca-Cola/Amalgamated Beverages GB",
+          "Coca-Cola v. Commission",
+          "Joined Cases T-125/97 and T-127/97"
+        ],
+        "statutes_and_regulations": [
+          "Commission Decision 97/540/EC of 22 January 1997",
+          "European Economic Area Agreement"
+        ],
+        "organizations": [
+          "A. May",
+          "Coca-Cola Enterprises Inc.",
+          "Commission of the European Communities",
+          "Elvinger and Hoss",
+          "Federal Ministry of Finance",
+          "Federal Republic of Germany",
+          "The Coca-Cola Company",
+          "The Virgin Trading Company Ltd",
+          "Zeyen, Beghin and Feider"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Application for annulment",
+          "Competition Law",
+          "Concentration compatible with the common market"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "Application for annulment",
+          "Competition Law",
+          "Concentration compatible with the common market"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KCL-COLA-610503",
+    "doc_type": "commentary",
+    "container_title": "Common Market Law Review",
+    "publ_year": 2024,
+    "cust_groups": [
+      "CH",
+      "KCL"
+    ],
+    "case_metadata": {
+      "court": null,
+      "case_number": null,
+      "case_name": null,
+      "decision_date": null,
+      "parties": []
+    },
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 386
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 386
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Transaction Notification Scope"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Illumina judgment",
+          "Illumina/GRAIL transaction"
+        ],
+        "statutes_and_regulations": [
+          "Article 22 EUMR",
+          "EUMR",
+          "Merger Regulation"
+        ],
+        "organizations": [
+          "Commission",
+          "European Union",
+          "General Court",
+          "NCAs"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Article 22 EUMR",
+          "Effective control of concentrations",
+          "Merger Control Outside the Merger Regulation",
+          "Referrals from NCAs without jurisdiction",
+          "Turnover thresholds"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "Article 22 EUMR",
+          "Effective control of concentrations",
+          "Merger Control Outside the Merger Regulation",
+          "Referrals from NCAs without jurisdiction",
+          "Turnover thresholds"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KCL-COLA-610504",
+    "doc_type": "commentary",
+    "container_title": "Common Market Law Review",
+    "publ_year": 2024,
+    "cust_groups": [
+      "CH",
+      "KCL"
+    ],
+    "case_metadata": {
+      "court": null,
+      "case_number": null,
+      "case_name": null,
+      "decision_date": null,
+      "parties": []
+    },
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Taxation and State Aid",
+          "chunk_count": 1,
+          "word_weight": 488
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Taxation and State Aid",
+          "chunk_count": 1,
+          "word_weight": 488
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Expanded",
+        "anchored_count": 0,
+        "expanded_count": 1,
+        "total": 1,
+        "anchored_pct": 0.0,
+        "expanded_pct": 100.0
+      },
+      "L3_Sub_Topics": [
+        "State Aid Transfer Pricing"
+      ],
+      "L4_Entities": {
+        "case_names": [],
+        "statutes_and_regulations": [],
+        "organizations": []
+      },
+      "L4_Keywords": {
+        "all": [
+          "arm’s length standard",
+          "double taxation",
+          "downward adjustments",
+          "synergy gains",
+          "transfer pricing regulations"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "arm’s length standard",
+          "double taxation",
+          "downward adjustments",
+          "synergy gains",
+          "transfer pricing regulations"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KCL-Roy-2024-Ch02",
+    "doc_type": "essay",
+    "container_title": "Competition Law in India: A Practical Guide (Second Edition)",
+    "publ_year": 2024,
+    "cust_groups": [
+      "KCL"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Anticompetitive Agreements",
+          "chunk_count": 1,
+          "word_weight": 575
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Anticompetitive Agreements",
+          "chunk_count": 1,
+          "word_weight": 575
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Trade Association Control"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "M/s Suman Distributors, Murshidabad v. Bengal Chemists and Druggists Association and Others",
+          "Varca Chemists and Druggists v. Chemists and Druggists Association, Goa"
+        ],
+        "statutes_and_regulations": [
+          "Competition Act",
+          "section 3(1)",
+          "section 3(3)(b)"
+        ],
+        "organizations": [
+          "AIOCD",
+          "Alkem Laboratories Limited",
+          "BCDA",
+          "Bengal Chemists and Druggists Association",
+          "CCI",
+          "Chemists and Druggists Association, Goa",
+          "DG",
+          "M/s Suman Distributors, Murshidabad",
+          "Varca Chemists and Druggists"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Anti-competitive agreements",
+          "No-Objection Certificate (NOC)",
+          "Product Information Service (PIS) approval",
+          "Restraint on freedom of trade",
+          "Trade association conduct"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "Anti-competitive agreements",
+          "No-Objection Certificate (NOC)",
+          "Product Information Service (PIS) approval",
+          "Restraint on freedom of trade",
+          "Trade association conduct"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KCL-Roy-2024-Ch04",
+    "doc_type": "essay",
+    "container_title": "Competition Law in India: A Practical Guide (Second Edition)",
+    "publ_year": 2024,
+    "cust_groups": [
+      "KCL"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 641
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 641
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Transaction Notification Scope"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Amazon's acquisition of FCPL",
+          "Thomas Cook case"
+        ],
+        "statutes_and_regulations": [
+          "Combinations Regulation",
+          "Competition Act",
+          "Regulation 9(4)",
+          "Regulation 9(5)",
+          "section 6(2) of the Competition Act"
+        ],
+        "organizations": [
+          "Amazon",
+          "CCI",
+          "COMPAT",
+          "FRL",
+          "Future Coupons Private Limited (FCPL)",
+          "Supreme Court"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Composite notice",
+          "Evasion of notice",
+          "Inter-connected transactions",
+          "Obligation to notify a combination",
+          "Substance over form principle"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "Composite notice",
+          "Evasion of notice",
+          "Inter-connected transactions",
+          "Obligation to notify a combination",
+          "Substance over form principle"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KCL-Roy-2024-b001",
+    "doc_type": "essay",
+    "container_title": "Competition Law in India: A Practical Guide (Second Edition)",
+    "publ_year": 2024,
+    "cust_groups": [
+      "KCL"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 611
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Merger Control",
+          "chunk_count": 1,
+          "word_weight": 611
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Transaction Notification Scope"
+      ],
+      "L4_Entities": {
+        "case_names": [
+          "Hiranandani case"
+        ],
+        "statutes_and_regulations": [],
+        "organizations": [
+          "European Commission",
+          "European Court of Justice (ECJ)",
+          "High Level Committee on Competition Policy and Law"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "Essential facilities doctrine",
+          "Excessive pricing",
+          "Extraterritorial jurisdiction",
+          "Fair, Reasonable, and Non-Discriminatory (FRAND)",
+          "Gun jumping"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "Essential facilities doctrine",
+          "Excessive pricing",
+          "Extraterritorial jurisdiction",
+          "Fair, Reasonable, and Non-Discriminatory (FRAND)",
+          "Gun jumping"
+        ]
+      }
+    },
+    "chunk_count": 1
+  },
+  {
+    "doc_id": "KLI-KCL-SMEU-2406011",
+    "doc_type": "legislation",
+    "container_title": "Selected Materials from the European Union",
+    "publ_year": null,
+    "cust_groups": [
+      "KCL"
+    ],
+    "case_metadata": null,
+    "taxonomy": {
+      "L1_Domain": "Competition Law",
+      "L2_Primary_Topics": [
+        {
+          "l2_topic": "Market Definition",
+          "chunk_count": 1,
+          "word_weight": 538
+        }
+      ],
+      "L2_All_Topics": [
+        {
+          "l2_topic": "Market Definition",
+          "chunk_count": 1,
+          "word_weight": 538
+        }
+      ],
+      "L2_Provenance": {
+        "summary": "100% Anchored",
+        "anchored_count": 1,
+        "expanded_count": 0,
+        "total": 1,
+        "anchored_pct": 100.0,
+        "expanded_pct": 0.0
+      },
+      "L3_Sub_Topics": [
+        "Relevant Competitive Constraints"
+      ],
+      "L4_Entities": {
+        "case_names": [],
+        "statutes_and_regulations": [],
+        "organizations": [
+          "Commission",
+          "European Union"
+        ]
+      },
+      "L4_Keywords": {
+        "all": [
+          "demand substitution",
+          "market definition",
+          "potential competition",
+          "supply substitution",
+          "Union competition law"
+        ],
+        "matched_from_dictionary": [],
+        "newly_extracted": [
+          "demand substitution",
+          "market definition",
+          "potential competition",
+          "supply substitution",
+          "Union competition law"
+        ]
+      }
+    },
+    "chunk_count": 1
+  }
+]

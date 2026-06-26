@@ -1,0 +1,56 @@
+# Virtual environments
+iit/
+.venv/
+venv/
+env/
+backend/api/.venv/
+
+# Runtime storage (uploads, SQLite DB, processed output)
+storage/
+
+# Large POC output data (not source code)
+backend/data/poc_output/
+backend/data/rag_out/
+backend/data/demo4/
+
+# Sample XML files (large, not source code)
+backend/KA-xml-samples/
+backend/KCL-xml-samples/
+
+# Generated docs / wireframes
+docs/*.svg
+design/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment / secrets
+.env
+.env.*
+*.env
+.mcp.json
+
+# Streamlit cache
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local work notes
+anubhav-work/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log

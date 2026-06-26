@@ -1,0 +1,439 @@
+[
+  {
+    "doc_id": "KLI-JOIA-420502",
+    "doc_type": "commentary",
+    "cust_groups": [
+      "KA",
+      "CH"
+    ],
+    "section_id": "S0002",
+    "chunk_id": "S0002_chunk_1",
+    "fused_text": "[Container: Journal of International Arbitration | Document: Template Justice on Trial: A Critical Analysis of DJP v. DJO’s New Standards for Arbitrators | Section: S0002 - THE BOUNDARIES OF PREJUDGMENT: A JURISPRUDENTIAL REVIEW OF ISSUE CONFLICT]\n\nAs evident from above, DJP v. DJO brings to the forefront the complex challenge of ‘issue conflict’ in international arbitration, a concept that refers to circumstances where an arbitrator’s impartiality may be compromised due to their relationship with the subject matter of the dispute rather than with the parties themselves. This can arise when an arbitrator has previously considered similar legal or factual issues, potentially forming views that may affect their ability to approach a new case with an open mind.\n\nBefore analysing how the SGCA tackled this thorny issue, it is essential to understand how courts and tribunals alike have previously navigated this terrain, as these precedents form the backdrop against which the significance of DJP v. DJO can be properly assessed.\n\nThe foundation for evaluating issue conflict lies in the objective test for apparent bias, articulated most clearly in Halliburton Company v. Chubb Bermuda Insurance Ltd, where the UK Supreme Court confirmed that the assessment should consider whether ‘a fair-minded and informed observer, having considered the facts, would conclude that there was a real possibility that the tribunal was biased’. This objective standard focuses not on actual bias but on reasonable perceptions that might undermine confidence in the arbitral process.\n\nEarly decisions generally set a high threshold for successful challenges. In Suez v. Argentina, the tribunal rejected the notion that prior exposure to similar legal questions automatically indicated bias, emphasizing that ‘the fact that a judge or an arbitrator has made a determination of law or a finding of fact in one case does not mean that they cannot decide the law and facts impartially in another case’. This principle was reinforced in Tidewater v. Venezuela, where the tribunal held that multiple appointments alone could not ‘without more’ indicate a lack of independence. According to this decision, prejudgment concerns would arise only where an arbitrator had ‘in effect prejudged the liability of one of the parties in the context of the specific factual matrix’.\n\nA key development in this jurisprudence, however, emerged with Caratube v. Kazakhstan, which introduced a crucial distinction between legal interpretations and factual determinations. Here, an arbitrator was disqualified based on his exposure to overlapping facts in a related case. The tribunal differentiated between legal interpretations involving ‘generally available knowledge’ and factual determinations based on ‘documents and witnesses specific to each dispute’, suggesting that factual overlap posed greater concerns for impartiality than legal opinions alone. In this case, the unchallenged arbitrators concluded that Boesch could not reasonably maintain a ‘Chinese wall’ in his own mind regarding information acquired in the parallel proceeding. Therefore, this distinction will prove particularly relevant to our analysis of DJP v. DJO, where extensive copying from previous awards reflected both legal interpretations and case-specific factual determinations.\n\nCC/Devas v. India pushed these boundaries further, where Judge Peter Tomka upheld a challenge against Professor Francisco Orrego Vicuña based on his prior decisions interpreting an ‘essential security interests’ clause and his subsequent academic defines of those interpretations despite their annulment. This decision suggested that an arbitrator’s repeated engagement with the same legal issues, coupled with a steadfast defence of an overturned position, could create an appearance of prejudgment even without factual overlap. Judge Tomka concluded that ‘a reasonable observer would not believe that [the arbitrator] could approach the question with an open mind’.\n\nThe tension between these lines of jurisprudence was also particularly evident in Blue Bank v. Venezuela, where an arbitrator was disqualified due to his concurrent roles as arbitrator and advocate involving similar issues and the same respondent. The deciding authority concluded that ‘a third party would find an evident or obvious appearance of lack of impartiality’ given the similarity of issues likely to be discussed in both cases.",
+    "inherited_topics": [],
+    "inherited_keywords": [
+      "International Commercial Arbitration",
+      "Breach of Natural Justice",
+      "Arbitrator Bias",
+      "Repeat Appointments",
+      "Issue Conflict",
+      "Principle of Information Equality",
+      "Copying of Arbitral Award",
+      "Setting Aside of Award",
+      "DJP v. DJO",
+      "Singapore Court of Appeal"
+    ],
+    "case_metadata": {
+      "court": "Singapore Supreme Court of Singapore, Court of Appeal",
+      "case_number": "Court of Appeal / Civil Appeal No 6 of 2024",
+      "case_name": "DJP and others v. DJO [2024] SGHC(I) 24",
+      "decision_date": "20250408",
+      "parties": [
+        {
+          "role": "Appellant",
+          "name": "DJP"
+        },
+        {
+          "role": "Appellant",
+          "name": "DJO"
+        },
+        {
+          "role": "Appellant",
+          "name": "DJP"
+        },
+        {
+          "role": "Respondent",
+          "name": "DJO"
+        }
+      ]
+    },
+    "L1_Domain": "International Arbitration",
+    "L2_Topic": "Arbitrator Independence",
+    "L2_Source": "anchor",
+    "L2_Similarity": 0.7951,
+    "L4_metadata": {
+      "entities": {
+        "case_names": [
+          "DJP v. DJO",
+          "Halliburton Company v. Chubb Bermuda Insurance Ltd",
+          "Suez v. Argentina",
+          "Tidewater v. Venezuela",
+          "Caratube v. Kazakhstan",
+          "CC/Devas v. India",
+          "Blue Bank v. Venezuela"
+        ],
+        "statutes_and_regulations": [],
+        "organizations": [
+          "UK Supreme Court",
+          "Singapore Court Of Appeal"
+        ]
+      },
+      "keywords": {
+        "existing_matched_keywords": [
+          "Issue Conflict",
+          "International Commercial Arbitration",
+          "Arbitrator Bias",
+          "Repeat Appointments",
+          "Copying Of Arbitral Award",
+          "Annulment"
+        ],
+        "new_extracted_keywords": []
+      }
+    },
+    "L3_Sub_Topic": "Arbitrator Issue Conflict",
+    "L3_Source": "namer"
+  },
+  {
+    "doc_id": "KLI-JOIA-420502",
+    "doc_type": "commentary",
+    "cust_groups": [
+      "KA",
+      "CH"
+    ],
+    "section_id": "S0001",
+    "chunk_id": "S0001_chunk_1",
+    "fused_text": "[Container: Journal of International Arbitration | Document: Template Justice on Trial: A Critical Analysis of DJP v. DJO’s New Standards for Arbitrators | Section: S0001 - INTRODUCTION]\n\nIn international commercial arbitration, a delicate balance exists between safeguarding procedural integrity and preventing tactical disruptions. William W. Park aptly captured this tension in his article ‘Arbitrator Bias’, observing that an ‘evil gremlin’ seeking to undermine arbitration might pursue one of two routes: either tolerate the appointment of biased arbitrators unable to judge independently, or establish ‘unrealistic ethical standards that render the arbitrator’s position precarious and susceptible to destabilisation by litigants engaged in dilatory tactics or seeking to annul unfavourable awards’.\n\nThis tension has taken on a new dimensions with the Singapore Court of Appeal’s (‘SGCA’) landmark decision in DJP v. DJO. In this case, the SGCA set aside an arbitral award after finding that ‘out of the 451 paragraphs in the Award … at least 212 paragraphs were copied and pasted from the Parallel Awards’, with former Chief Justice of India Dipak Misra serving as the Presiding Arbitrator across all three related proceedings. It concluded that Justice Misra’s use of content from the Parallel awards amounted to pre-judging a case, and that his accumulated knowledge and willingness to use that knowledge in preparing the Award constituted impermissible pre-judging. Through this ruling, the SGCA established new standards for arbitrator conduct that significantly impact repeat appointments, award drafting practices, and information asymmetries among co-arbitrators.\n\nNow, to properly assess the decision’s implications, we must first distinguish between three distinct scenarios of repeat appointments: first, appointment by the same party in a completely unrelated cases; second, appointment by the same party in cases involving similar legal issues but different facts; and third, appointment by the same party in cases with substantially overlapping facts, subject-matter, and evidence. This article focuses specifically on the third scenario, which was central to DJP v. DJO and presents the most complex questions about arbitral appointments and conduct.\n\nIn examining this third category of repeat appointments through the lens of DJP v. DJO, the SGCA’s decision raises two critical questions which form the central thesis of this article: the threshold question of permissible ‘copying’ in arbitral awards and the potentially paradoxical concept of information equality among tribunal members. While these principles aim to protect procedural fairness, they introduce significant challenges to established arbitration practices and may create tensions with the system’s foundational attributes of expertise, efficiency, and finality. By setting standards that may prove difficult to implement in practice, SGCA’s approach raises important questions about the proper balance between procedural safeguards and the practical realities of international arbitration.\n\nTo that end, this article proceeds by first examining the jurisprudential evolution of ‘issue conflict’ in international arbitration, tracing key developments from Halliburton through landmark decisions that established the legal context for understanding DJP v. DJO. Then, it provides a detailed examination of DJP v. DJO itself, focusing on the Court’s findings regarding prejudgment, apparent bias, and the ‘equality of information’ principle. Finally, this article critically evaluates these standards, examining the fallacy of information equality and the extent of permissible ‘copying’ in awards, arguing that the Court’s approach may inadvertently undermine arbitration’s foundational values while failing to provide clear guidance for arbitrators navigating related proceedings.",
+    "inherited_topics": [],
+    "inherited_keywords": [
+      "International Commercial Arbitration",
+      "Breach of Natural Justice",
+      "Arbitrator Bias",
+      "Repeat Appointments",
+      "Issue Conflict",
+      "Principle of Information Equality",
+      "Copying of Arbitral Award",
+      "Setting Aside of Award",
+      "DJP v. DJO",
+      "Singapore Court of Appeal"
+    ],
+    "case_metadata": {
+      "court": "Singapore Supreme Court of Singapore, Court of Appeal",
+      "case_number": "Court of Appeal / Civil Appeal No 6 of 2024",
+      "case_name": "DJP and others v. DJO [2024] SGHC(I) 24",
+      "decision_date": "20250408",
+      "parties": [
+        {
+          "role": "Appellant",
+          "name": "DJP"
+        },
+        {
+          "role": "Appellant",
+          "name": "DJO"
+        },
+        {
+          "role": "Appellant",
+          "name": "DJP"
+        },
+        {
+          "role": "Respondent",
+          "name": "DJO"
+        }
+      ]
+    },
+    "L1_Domain": "International Arbitration",
+    "L2_Topic": "Arbitrator Independence",
+    "L2_Source": "anchor",
+    "L2_Similarity": 0.7974,
+    "L4_metadata": {
+      "entities": {
+        "case_names": [
+          "DJP v. DJO",
+          "Halliburton"
+        ],
+        "statutes_and_regulations": [],
+        "organizations": [
+          "Singapore Court of Appeal"
+        ]
+      },
+      "keywords": {
+        "existing_matched_keywords": [
+          "International Commercial Arbitration",
+          "Arbitrator Bias",
+          "Annulment",
+          "Setting Aside Of Award",
+          "Copying Of Arbitral Award",
+          "Repeat Appointments",
+          "Principle Of Information Equality",
+          "Issue Conflict"
+        ],
+        "new_extracted_keywords": [
+          "Arbitrator Conduct",
+          "Prejudgment",
+          "DJP V. DJO"
+        ]
+      }
+    },
+    "L3_Sub_Topic": "Arbitrator Issue Conflict",
+    "L3_Source": "namer"
+  },
+  {
+    "doc_id": "KLI-KCL-CL-CompL200500292",
+    "doc_type": "caselaw",
+    "cust_groups": [
+      "KCL"
+    ],
+    "section_id": "a00003",
+    "chunk_id": "a00003_chunk_1",
+    "fused_text": "[Container: Competition Law in Western Europe and the USA | Document: Coca-Cola v. Commission, Judgment of the Court of First Instance of 22 March 2000, Cases T-125/97 and T-127/97 | Section: a00003]\n\nIn Joined Cases T-125/97 and T-127/97,\n\nThe Coca-Cola Company, established in Wilmington, Delaware, United States, represented by M. Siragusa, of the Rome Bar, and N. Levy, of the Bar of England and Wales, with an address for service in Luxembourg at the Chambers of Elvinger and Hoss, 15 Côte d'Eich,\n\nCoca-Cola Enterprises Inc., established in Atlanta, Georgia, United States, represented by P. Lasok QC, and M. Reynolds, Solicitor of the Supreme Court of England and Wales, with an address for service in Luxembourg at the Chambers of Zeyen, Beghin and Feider, 56-58 Rue Charles Martel,\n\napplicants,\n\nv.\n\nCommission of the European Communities, represented by W. Wils, of its Legal Service, acting as Agent, with an address for service in Luxembourg at the Chambers of C. Gòmez de la Cruz, of its Legal Service, Wagner Centre, Kirchberg,\n\ndefendant,\n\nsupported by\n\nThe Virgin Trading Company Ltd, established in London, represented by I. Forrester QC, of the Scots Bar, with an address for service in Luxembourg at the Chambers of A. May, 31 Grand-Rue,\n\nand\n\nFederal Republic of Germany, represented by W.-D. Plessing, Ministerialrat in the Federal Ministry of Finance, and C.-D. Quassowski, Regierungsdirektor in that Ministry, acting as Agents, Graurheindorfarstraße 108, Bonn, Germany,\n\ninterveners,\n\nApplication for annulment of part of the statement of reasons for Commission Decision 97/540/EC of 22 January 1997 declaring a concentration compatible with the common market and with the functioning of the European Economic Area Agreement (Case IV/M.794 Coca-Cola/Amalgamated Beverages GB) (OJ 1997 L 218, p. 15),",
+    "inherited_topics": [
+      "Antitrust",
+      "Mergers"
+    ],
+    "inherited_keywords": [],
+    "case_metadata": {
+      "court": "European Union Court of First Instance of the European Communities (CFI)",
+      "case_number": "T-125/97 and T-127/97",
+      "case_name": null,
+      "decision_date": "20000322",
+      "parties": [
+        {
+          "role": "Applicant",
+          "name": "Coca-Cola"
+        },
+        {
+          "role": "Defendant",
+          "name": "Commission"
+        }
+      ]
+    },
+    "L1_Domain": "Competition Law",
+    "L2_Topic": "Merger Control",
+    "L2_Source": "anchor",
+    "L2_Similarity": 0.7513,
+    "L4_metadata": {
+      "entities": {
+        "case_names": [
+          "Coca-Cola v. Commission",
+          "Joined Cases T-125/97 and T-127/97",
+          "Case IV/M.794 Coca-Cola/Amalgamated Beverages GB"
+        ],
+        "statutes_and_regulations": [
+          "Commission Decision 97/540/EC of 22 January 1997",
+          "European Economic Area Agreement"
+        ],
+        "organizations": [
+          "The Coca-Cola Company",
+          "Coca-Cola Enterprises Inc.",
+          "Commission of the European Communities",
+          "The Virgin Trading Company Ltd",
+          "Federal Republic of Germany",
+          "Elvinger and Hoss",
+          "Zeyen, Beghin and Feider",
+          "A. May",
+          "Federal Ministry of Finance"
+        ]
+      },
+      "keywords": {
+        "existing_matched_keywords": [],
+        "new_extracted_keywords": [
+          "Competition Law",
+          "Application for annulment",
+          "Concentration compatible with the common market"
+        ]
+      }
+    },
+    "L3_Sub_Topic": "Concentration Decision Annulment",
+    "L3_Source": "namer"
+  },
+  {
+    "doc_id": "KLI-KCL-0949015",
+    "doc_type": "caselaw",
+    "cust_groups": [
+      "KCL"
+    ],
+    "section_id": "a00001",
+    "chunk_id": "a00001_chunk_1",
+    "fused_text": "[Container: Selected Materials from the European Union | Document: Commission v. Belgium, Judgment of the Court of Justice of 3 December 2009, Case C-475/08 | Section: a00001]\n\nEU source text (PDF)",
+    "inherited_topics": [
+      "Liberalisation"
+    ],
+    "inherited_keywords": [
+      "Failure of a Member State to fulfil obligations",
+      "Directive 2003/55/EC",
+      "Internal market in natural gas",
+      "Definitive designation of system operators",
+      "Decision exempting major new gas infrastructures from the application of certain provisions of Directive 2003/55/EC",
+      "Publication, consultation and notification obligations"
+    ],
+    "case_metadata": {
+      "court": "European Union Court of Justice of the European Communities (ECJ)",
+      "case_number": "C-475/08",
+      "case_name": null,
+      "decision_date": "20091203",
+      "parties": [
+        {
+          "role": "Applicant",
+          "name": "Commission"
+        },
+        {
+          "role": "Defendant",
+          "name": "Belgium"
+        }
+      ]
+    },
+    "L1_Domain": "Competition Law",
+    "L2_Topic": "Public Undertakings and Services",
+    "L2_Source": "generator",
+    "L2_Similarity": 0.7049,
+    "L2_Reasoning": "The case involves the European Commission challenging a Member State, suggesting a focus on how national public entities or state-granted services interact with EU competition rules, distinct from direct financial aid.",
+    "L4_metadata": {
+      "entities": {
+        "case_names": [
+          "Commission v. Belgium, Judgment of the Court of Justice of 3 December 2009, Case C-475/08"
+        ],
+        "statutes_and_regulations": [],
+        "organizations": [
+          "European Union",
+          "Court of Justice"
+        ]
+      },
+      "keywords": {
+        "existing_matched_keywords": [
+          "Failure Of A Member State To Fulfil Obligations"
+        ],
+        "new_extracted_keywords": []
+      }
+    },
+    "L3_Sub_Topic": "EU Public Service Compliance",
+    "L3_Source": "namer"
+  },
+  {
+    "doc_id": "KLI-KCL-0949015",
+    "doc_type": "caselaw",
+    "cust_groups": [
+      "KCL"
+    ],
+    "section_id": "a00001",
+    "chunk_id": "a00001_chunk_1",
+    "fused_text": "[Container: Selected Materials from the European Union | Document: Commission v. Belgium, Judgment of the Court of Justice of 3 December 2009, Case C-475/08 | Section: a00001]\n\nEU source text (PDF)",
+    "inherited_topics": [
+      "Liberalisation"
+    ],
+    "inherited_keywords": [
+      "Failure of a Member State to fulfil obligations",
+      "Directive 2003/55/EC",
+      "Internal market in natural gas",
+      "Definitive designation of system operators",
+      "Decision exempting major new gas infrastructures from the application of certain provisions of Directive 2003/55/EC",
+      "Publication, consultation and notification obligations"
+    ],
+    "case_metadata": {
+      "court": "European Union Court of Justice of the European Communities (ECJ)",
+      "case_number": "C-475/08",
+      "case_name": null,
+      "decision_date": "20091203",
+      "parties": [
+        {
+          "role": "Applicant",
+          "name": "Commission"
+        },
+        {
+          "role": "Defendant",
+          "name": "Belgium"
+        }
+      ]
+    },
+    "L1_Domain": "Competition Law",
+    "L2_Topic": "Public Undertakings and Services",
+    "L2_Source": "generator",
+    "L2_Similarity": 0.7049,
+    "L2_Reasoning": "The case involves the European Commission challenging a Member State, suggesting a focus on how national public entities or state-granted services interact with EU competition rules, distinct from direct financial aid.",
+    "L4_metadata": {
+      "entities": {
+        "case_names": [
+          "Commission v. Belgium, Judgment of the Court of Justice of 3 December 2009, Case C-475/08"
+        ],
+        "statutes_and_regulations": [],
+        "organizations": [
+          "European Union",
+          "Court of Justice"
+        ]
+      },
+      "keywords": {
+        "existing_matched_keywords": [
+          "Failure Of A Member State To Fulfil Obligations"
+        ],
+        "new_extracted_keywords": []
+      }
+    },
+    "L3_Sub_Topic": "EU Public Service Compliance",
+    "L3_Source": "namer"
+  },
+  {
+    "doc_id": "KLI-KCL-0949015",
+    "doc_type": "caselaw",
+    "cust_groups": [
+      "KCL"
+    ],
+    "section_id": "a00002",
+    "chunk_id": "a00002_chunk_1",
+    "fused_text": "[Container: Selected Materials from the European Union | Document: Commission v. Belgium, Judgment of the Court of Justice of 3 December 2009, Case C-475/08 | Section: a00002 - Judgment Of The Court (Sixth Chamber) 3 December 2009]\n\nIn Case C-475/08,\n\nACTION under Article 226 EC for failure to fulfil obligations, brought on 5 November 2008,\n\nEuropean Commission, represented by M. Patakia and B. Schima, acting as Agents, with an address for service in Luxembourg,\n\napplicant,\n\nv\n\nKingdom of Belgium, represented by C. Pochet, acting as Agent, and J. Scalais and O. Vanhulst, avocats,\n\ndefendant,\n\nTHE COURT (Sixth Chamber),\n\ncomposed of J.-C. Bonichot, President of the Fourth Chamber, acting for the President of the Sixth Chamber, C. Toader (Rapporteur) and P. Kūris, Judges,\n\nAdvocate General: V. Trstenjak,\n\nRegistrar: R. Grass,\n\nhaving regard to the written procedure,\n\nhaving decided, after hearing the Advocate General, to proceed to judgment without an Opinion,\n\ngives the following\n\n1 By its application, the Commission of the European Communities claims that the Court should declare that: – by failing to designate the system operators as required under Article 7 of Directive 2003/55/EC of the European Parliament and of the Council of 26 June 2003 concerning common rules for the internal market in natural gas and repealing Directive 98/30/EC (OJ 2003 L 176, p. 57; ‘the Directive’); and – by providing not only for the regulated access, but also for the negotiated access, of third parties to the system, contrary to Article 18 of the Directive, read in conjunction with Article 25(2) thereof; and – by failing to transpose Article 22(3)(d) and (e) and (4) of the Directive, the Kingdom of Belgium has failed to fulfil its obligations under the Directive.\n\n2 By letter lodged at the Court Registry on 31 March 2009, the Commission abandoned the claim referred to in the second indent of paragraph 1 above, since the Kingdom of Belgium stated, in its defence, that it had repealed the provision of national law under which third parties could have negotiated access to transmission systems and to storage and liquefied natural gas (‘LNG’) facilities.\n\n3 Article 7 of the Directive provides: ‘Member States shall designate or shall require natural gas undertakings which own transmission, storage or LNG facilities to designate, for a period of time to be determined by Member States having regard to considerations of efficiency and economic balance, one or more system operators. Member States shall take the measures necessary to ensure that transmission, storage and LNG system operators act in accordance with Articles 8 to 10.’\n\n4 Article 11 of the Directive states: ‘Member States shall designate, or shall require undertakings which own or are responsible for distribution systems to designate, for a period of time to be determined by Member States, having regard to considerations of efficiency and economic balance, one or more distribution system operators and shall ensure that those operators act in accordance with Articles 12 to 14.’\n\n5 Article 22 of the Directive is worded as follows: ‘1. Major new gas infrastructures, i.e. interconnectors between Member States, LNG and storage facilities, may, upon request, be exempted from the provisions of Articles 18, 19, 20 [concerning, respectively, access to systems, access to storage facilities and access to upstream pipeline networks], and 25(2), (3) and (4) [concerning regulatory authorities] under the following conditions: … 3. … … (d) The exemption decision … shall be duly reasoned and published. (e) In the case of an interconnector any exemption decision shall be taken after consultation with the other Member States or regulatory authorities concerned. 4. The exemption decision shall be notified, without delay, by the competent authority to the Commission, together with all the relevant information with respect to the decision. This information may be submitted to the Commission in aggregate form, enabling the Commission to reach a well-founded decision. …’\n\n6 Article 33 of the Directive lays down the general rule in accordance with which Member States were to bring into force the provisions necessary to comply with the Directive not later than 1 July 2004.",
+    "inherited_topics": [
+      "Liberalisation"
+    ],
+    "inherited_keywords": [
+      "Failure of a Member State to fulfil obligations",
+      "Directive 2003/55/EC",
+      "Internal market in natural gas",
+      "Definitive designation of system operators",
+      "Decision exempting major new gas infrastructures from the application of certain provisions of Directive 2003/55/EC",
+      "Publication, consultation and notification obligations"
+    ],
+    "case_metadata": {
+      "court": "European Union Court of Justice of the European Communities (ECJ)",
+      "case_number": "C-475/08",
+      "case_name": null,
+      "decision_date": "20091203",
+      "parties": [
+        {
+          "role": "Applicant",
+          "name": "Commission"
+        },
+        {
+          "role": "Defendant",
+          "name": "Belgium"
+        }
+      ]
+    },
+    "L1_Domain": "Competition Law",
+    "L2_Topic": "EU Law Implementation",
+    "L2_Source": "generator",
+    "L2_Similarity": 0.7013,
+    "L2_Reasoning": "The text describes an action by the European Commission against a Member State for failing to transpose specific articles of an EU directive concerning the internal natural gas market into national law.",
+    "L4_metadata": {
+      "entities": {
+        "case_names": [
+          "Commission v. Belgium, Judgment of the Court of Justice of 3 December 2009, Case C-475/08"
+        ],
+        "statutes_and_regulations": [
+          "Article 226 EC",
+          "Directive 2003/55/EC",
+          "Directive 98/30/EC",
+          "Article 7 of Directive 2003/55/EC",
+          "Article 18 of the Directive",
+          "Article 25(2) thereof",
+          "Article 22(3)(d) and (e) and (4) of the Directive",
+          "Article 11 of the Directive",
+          "Article 22 of the Directive",
+          "Article 33 of the Directive"
+        ],
+        "organizations": [
+          "European Commission",
+          "Kingdom of Belgium",
+          "Court of Justice"
+        ]
+      },
+      "keywords": {
+        "existing_matched_keywords": [
+          "Failure Of A Member State To Fulfil Obligations",
+          "Definitive Designation Of System Operators",
+          "Directive 2003/55/Ec",
+          "Decision Exempting Major New Gas Infrastructures From The Application Of Certain Provisions Of Directive 2003/55/Ec",
+          "Publication Consultation And Notification Obligations"
+        ],
+        "new_extracted_keywords": []
+      }
+    },
+    "L3_Sub_Topic": "Infringement Proceedings",
+    "L3_Source": "namer"
+  }
+]

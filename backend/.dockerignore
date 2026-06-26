@@ -1,0 +1,7 @@
+api/.venv
+storage/
+KA-xml-samples/
+KCL-xml-samples/
+__pycache__
+*.pyc
+.env
